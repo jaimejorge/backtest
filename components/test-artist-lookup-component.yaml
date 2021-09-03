@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-artist-lookup
   annotations:
-    backstage.io/kubernetes-id: aws-cluster-1
+    backstage.io/kubernetes-label-selector: test1
   description: Test Artist Lookup
   tags:
     - java
