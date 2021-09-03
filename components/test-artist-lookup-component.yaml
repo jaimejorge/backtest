@@ -4,6 +4,7 @@ metadata:
   name: test-artist-lookup
   annotations:
     backstage.io/kubernetes-label-selector: test1
+    backstage.io/kubernetes-id: dice-roller
   description: Test Artist Lookup
   tags:
     - java
