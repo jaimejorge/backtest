@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: artist-lookup
+  name: test-artist-lookup
   annotations:
     backstage.io/kubernetes-id: aws-cluster-1
-  description: Artist Lookup
+  description: Test Artist Lookup
   tags:
     - java
     - data
