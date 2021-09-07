@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/jaimejorge/backtest/new/main/k8s
+    repoURL: https://github.com/jaimejorge/backtest
     targetRevision: HEAD
     path: k8s/app/echo-server
   destination:
